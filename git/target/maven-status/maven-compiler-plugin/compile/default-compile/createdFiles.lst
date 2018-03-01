@@ -1,0 +1,10 @@
+org/ocmc/git/models/LibraryLine.class
+org/ocmc/git/models/SynchStatus.class
+org/ocmc/git/models/GitDiffTuple$TYPES.class
+org/ocmc/git/JGitUtils.class
+org/ocmc/git/models/GitDiffLibraryLine$STATUSES.class
+org/ocmc/git/models/GitStatus.class
+org/ocmc/git/models/GitDiffTuple.class
+org/ocmc/git/models/SynchData.class
+org/ocmc/git/models/GitDiffEntry.class
+org/ocmc/git/models/GitDiffLibraryLine.class
